@@ -41,7 +41,7 @@
       "Resource": "*",
       "Condition": {
         "StringEquals": {
-            "iam:AWSServiceName": "elasticloadbalancing.amazonaws.com"
+            "iam:AWSServiceName": "elasticloadbalancing.amazonaws-us-gov.com"
         }
       }
     },
